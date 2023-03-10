@@ -1,0 +1,9 @@
+.rodapie__lista{
+    display: flex;
+}
+
+@media screen and (min-width: 0) { 
+    .rodapie__lista{
+        margin: 0;
+    }
+}
